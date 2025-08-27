@@ -8,6 +8,12 @@
     font-weight: 400;
     src: url('./fonts/HKGrotesk-Regular.woff') format('woff');
 }
+@font-face {
+    font-family: 'Garamond';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/eb-garamond-bold-italic.woff') format('woff');
+}
 
 @font-face {
     font-family: 'Jost';
